@@ -1,0 +1,10 @@
+Info Login Untuk Admin Sekolah
+
+username: admin
+password: admin
+
+username: sekolah
+password: admin
+
+username: rizko777
+password: rizko777
